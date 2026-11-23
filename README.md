@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sahana 👋
 
-<!--
-**sahana-varadharajan/sahana-varadharajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst based in Hamburg, Germany. Before this I spent three years as a
+Data Engineer at LTIMindtree, supporting production ETL pipelines for a banking client
+and working on data quality validation and SQL analysis.
 
-Here are some ideas to get you started:
+I'm now focusing on data analytics and doing the Data Analytics & AI program at
+WBS Coding School. This profile is where I keep my portfolio projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I work with
+**SQL** (MySQL) · **Python** (pandas, NumPy) · **Tableau** · **Excel** · Google Colab · Unix shell
+
+### 📂 Projects
+- **Eniac × Magist**: SQL and Tableau analysis of whether Eniac should partner with Brazilian marketplace Magist
+- **Eniac discount strategy**: Python analysis of how discounts affect revenue
+- **Spotify Data Analysis**: ETL pipeline from the Spotify API into MySQL, followed by SQL and pandas analysis of track popularity
+- **MCU Watch-Order Optimizer** *(in progress)*: relational database of 124+ character relationships, to be used for an SQL-driven watch order
+
+### 🌱 Currently
+- Getting better at Python and data visualisation (matplotlib, seaborn)
+- Improving my German (B1 certified)
+
+### 📫 Contact
+[LinkedIn](https://linkedin.com/in/sahana-varadharajan)
