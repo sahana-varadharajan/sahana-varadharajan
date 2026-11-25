@@ -11,7 +11,7 @@ WBS Coding School. This profile is where I keep my portfolio projects.
 **SQL** (MySQL) · **Python** (pandas, NumPy) · **Tableau** · **Excel** · Google Colab · Unix shell
 
 ### 📂 Projects
-- **  sql-business-exploration- (Eniac × Magist)**: SQL and Tableau analysis of whether Eniac should partner with Brazilian marketplace Magist
+- **sql-business-exploration- (Eniac × Magist)**: SQL and Tableau analysis of whether Eniac should partner with Brazilian marketplace Magist
 - **Eniac discount strategy**: Python analysis of how discounts affect revenue
 - **Spotify Data Analysis**: ETL pipeline from the Spotify API into MySQL, followed by SQL and pandas analysis of track popularity
 - **MCU Watch-Order Optimizer** *(in progress)*: relational database of 124+ character relationships, to be used for an SQL-driven watch order
